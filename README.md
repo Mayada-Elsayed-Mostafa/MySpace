@@ -1,4 +1,4 @@
-# 📱 My Productivity Hub – Jetpack Compose Android App
+# 📱 MySpace – Jetpack Compose Android App
 
 A modern, modular Android application built with **Jetpack Compose**, designed to help users stay productive with features like task management, notes, motivational quotes, and secure authentication.  
 This project integrates **Firebase**, **Room**, **Retrofit**, and follows **MVVM + Clean Architecture** principles.
